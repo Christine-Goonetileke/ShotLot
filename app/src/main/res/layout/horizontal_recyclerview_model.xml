@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/Horizontal_Card_view"
+    android:layout_width="100dp"
+    android:layout_height="120dp"
+    app:cardCornerRadius="0dp"
+    app:cardElevation="3dp"
+    android:layout_margin="0dp"
+    android:foreground="?android:selectableItemBackground"
+    android:clickable="true"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/item_storyimage"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="5dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/girl3" />
+
+
+        <TextView
+            android:id="@+id/item_storyname"
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:layout_below="@id/item_storyimage"
+            android:layout_marginStart="1dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginEnd="1dp"
+            android:layout_marginBottom="10dp"
+            android:text="Christine_Perera"
+            android:textSize="13sp"
+            android:textStyle="bold"
+            android:gravity="center"/>
+
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

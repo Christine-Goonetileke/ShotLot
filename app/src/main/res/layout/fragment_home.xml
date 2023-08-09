@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".ui.home.HomeFragment">
+
+    <RelativeLayout
+        android:id="@+id/toplogonamebar"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/white">
+
+        <ImageView
+            android:id="@+id/shotlotlogoname"
+            android:layout_width="150dp"
+            android:layout_height="60dp"
+            android:src="@drawable/logoname"
+            android:layout_alignParentLeft="true"/>
+
+
+
+        <ImageButton
+            android:id="@+id/profileActivities"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/ic_heart_foreground"
+            android:scaleType="centerCrop"
+            android:background="@color/white"
+            android:layout_toLeftOf="@id/messageswindow"/>
+
+        <ImageButton
+            android:id="@+id/messageswindow"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/ic_near_me_foreground"
+            android:background="@color/white"
+            android:scaleType="centerCrop"
+
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+
+    <ImageButton
+        android:id="@+id/addstoryicon"
+        android:layout_width="83dp"
+        android:layout_height="76dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="33dp"
+        android:layout_marginTop="83dp"
+        android:layout_marginEnd="295dp"
+        android:backgroundTint="#80FFFFFF"
+        android:scaleType="centerInside"
+
+
+        android:src="@drawable/ic_story_add_foreground" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/addstoryimage"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/girl_lollypop"
+        android:layout_below="@id/toplogonamebar"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="20dp"/>
+
+
+
+    <TextView
+        android:id="@+id/item_storyname"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:text="Add story"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:layout_below="@id/addstoryimage"
+        />
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/MyHorizrecyclerview"
+        android:layout_width="300dp"
+        android:layout_height="118dp"
+        android:layout_below="@id/toplogonamebar"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="0dp"
+        android:orientation="horizontal"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="1dp" />
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/MyNewrecyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="553dp"
+        android:layout_below="@id/MyHorizrecyclerview"
+        android:layout_marginTop="0dp"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="1dp" />
+
+
+
+    <TextView
+        android:visibility="invisible"
+        android:id="@+id/text_home"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:layout_alignParentBottom="true" />
+
+</RelativeLayout>

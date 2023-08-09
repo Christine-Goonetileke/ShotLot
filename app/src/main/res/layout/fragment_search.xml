@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.search.SearchFragment">
+
+    <SearchView
+        android:id="@+id/EditSearchName"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="50dp"
+        android:queryHint="Search..."
+        android:padding="20dp" />
+
+    <TextView
+        android:id="@+id/searchSuggestions"
+        android:layout_width="188dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/EditSearchName"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="20dp"
+        android:text="Search suggestions"
+        android:textAlignment="center"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/SearchResult1"
+        android:layout_width="120dp"
+        android:layout_height="30dp"
+        android:layout_below="@id/searchSuggestions"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="30dp"
+        android:background="#F6E8B1"
+        android:text="Fasion" />
+
+    <Button
+        android:id="@+id/SearchResult2"
+        android:layout_width="120dp"
+        android:layout_height="30dp"
+        android:layout_below="@id/searchSuggestions"
+        android:layout_marginTop="30dp"
+        android:background="#F6E8B1"
+        android:layout_marginStart="10dp"
+        android:text="Sprots"
+        android:layout_toRightOf="@id/SearchResult1"/>
+
+    <Button
+        android:id="@+id/SearchResult3"
+        android:layout_width="120dp"
+        android:layout_height="30dp"
+        android:layout_below="@id/searchSuggestions"
+        android:layout_marginTop="30dp"
+        android:background="#F6E8B1"
+        android:layout_marginStart="10dp"
+        android:text="Music"
+        android:layout_toRightOf="@id/SearchResult2"/>
+
+    <Button
+        android:id="@+id/SearchResult4"
+        android:layout_width="120dp"
+        android:layout_height="30dp"
+        android:layout_below="@id/SearchResult1"
+        android:layout_marginTop="20dp"
+        android:background="#F6E8B1"
+        android:layout_marginStart="20dp"
+        android:text="Food"/>
+
+    <Button
+        android:id="@+id/SearchResult5"
+        android:layout_width="120dp"
+        android:layout_height="30dp"
+        android:layout_below="@id/SearchResult2"
+        android:layout_toRightOf="@id/SearchResult4"
+        android:layout_marginTop="20dp"
+        android:background="#F6E8B1"
+        android:layout_marginStart="10dp"
+        android:text="Lifestyle" />
+
+    <Button
+        android:id="@+id/SearchResult6"
+        android:layout_width="120dp"
+        android:layout_height="30dp"
+        android:layout_below="@id/SearchResult3"
+        android:layout_toRightOf="@id/SearchResult5"
+        android:layout_marginTop="20dp"
+        android:background="#F6E8B1"
+        android:layout_marginStart="10dp"
+        android:text="Travel" />
+
+    <TextView
+        android:visibility="invisible"
+        android:id="@+id/text_search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:layout_alignParentBottom="true" />
+</RelativeLayout>

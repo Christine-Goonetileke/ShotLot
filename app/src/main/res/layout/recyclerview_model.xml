@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/Card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="10dp"
+    app:cardElevation="3dp"
+    android:layout_margin="0dp"
+    android:foreground="?android:selectableItemBackground"
+    android:clickable="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/item_profileimage"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/girl3"
+        android:scaleType="centerCrop"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="10dp"/>
+
+
+        <TextView
+            android:id="@+id/item_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="40dp"
+            android:layout_marginBottom="10dp"
+            android:text="Christine_Perera"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_toEndOf="@id/item_profileimage"/>
+
+        <ImageButton
+            android:id="@+id/moreButton"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/ic_more_foreground"
+            android:scaleType="centerCrop"
+            android:background="@color/white"
+            android:layout_above="@id/item_image"
+            android:layout_alignParentRight="true"/>
+
+        <ImageView
+            android:id="@+id/item_image"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/girl3"
+            android:layout_below="@id/item_profileimage"/>
+
+        <ImageButton
+            android:id="@+id/LikeButton"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/ic_heart_foreground"
+            android:scaleType="centerCrop"
+            android:background="@color/white"
+            android:layout_below="@id/item_image"/>
+
+        <ImageButton
+            android:id="@+id/commentsButton"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/ic_comment_foreground"
+
+            android:scaleType="centerCrop"
+            android:background="@color/white"
+            android:layout_below="@id/item_image"
+            android:layout_toRightOf="@id/LikeButton"/>
+
+        <ImageButton
+            android:id="@+id/messageButton2"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/ic_near_me_foreground"
+            android:scaleType="centerCrop"
+            android:background="@color/white"
+            android:layout_below="@id/item_image"
+            android:layout_toRightOf="@id/commentsButton"/>
+
+        <ImageButton
+            android:id="@+id/collection"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/ic_collection_foreground"
+            android:scaleType="centerCrop"
+            android:background="@color/white"
+            android:layout_below="@id/item_image"
+            android:layout_alignParentRight="true"/>
+
+        <TextView
+            android:id="@+id/uploadedTime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="0dp"
+            android:text="5 minutes ago"
+            android:textStyle="italic"
+            android:layout_below="@id/LikeButton"/>
+
+        <TextView
+        android:id="@+id/item_caption"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Everybody is beautiful on their own way"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:layout_marginTop="5dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_below="@id/uploadedTime"/>
+
+        <TextView
+            android:id="@+id/item_likes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="0dp"
+            android:text="Liked  by Anne_Perera and 101 others"
+            android:textStyle="italic"
+            android:textSize="16sp"
+            android:layout_below="@id/item_caption"/>
+
+        <EditText
+            android:id="@+id/item_comment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/item_likes"
+            android:hint="Add a comment..."
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="20dp"/>
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>
