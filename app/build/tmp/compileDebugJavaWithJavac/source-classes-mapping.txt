@@ -1,0 +1,22 @@
+com/example/shotlot/BuildConfig.java
+ com.example.shotlot.BuildConfig
+com/example/shotlot/databinding/RecyclerviewModelBinding.java
+ com.example.shotlot.databinding.RecyclerviewModelBinding
+com/example/shotlot/databinding/FragmentNotificationsBinding.java
+ com.example.shotlot.databinding.FragmentNotificationsBinding
+com/example/shotlot/databinding/FragmentSearchBinding.java
+ com.example.shotlot.databinding.FragmentSearchBinding
+com/example/shotlot/databinding/FragmentUserActivitiesBinding.java
+ com.example.shotlot.databinding.FragmentUserActivitiesBinding
+com/example/shotlot/databinding/ActivityMainBinding.java
+ com.example.shotlot.databinding.ActivityMainBinding
+com/example/shotlot/databinding/FragmentShopBinding.java
+ com.example.shotlot.databinding.FragmentShopBinding
+com/example/shotlot/databinding/FragmentAddBinding.java
+ com.example.shotlot.databinding.FragmentAddBinding
+com/example/shotlot/databinding/ActivityMyActivitesBinding.java
+ com.example.shotlot.databinding.ActivityMyActivitesBinding
+com/example/shotlot/databinding/FragmentHomeBinding.java
+ com.example.shotlot.databinding.FragmentHomeBinding
+com/example/shotlot/databinding/HorizontalRecyclerviewModelBinding.java
+ com.example.shotlot.databinding.HorizontalRecyclerviewModelBinding

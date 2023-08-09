@@ -1,0 +1,722 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sunglasses.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\sunglasses.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_collection_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xhdpi\\ic_collection_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_story_add.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_story_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_shop_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-hdpi\\ic_shop_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_search_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xhdpi\\ic_search_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_near_me.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-hdpi\\ic_near_me.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_comment_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-hdpi\\ic_comment_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_more.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-hdpi\\ic_more.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_comment_background.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\ic_comment_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_food.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable-v24\\food.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_shop.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xhdpi\\ic_shop.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_more.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xhdpi\\ic_more.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_near_me_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_near_me_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_add_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-mdpi\\ic_add_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logoname.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\logoname.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_shop.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_collection_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-mdpi\\ic_collection_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_near_me_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xhdpi\\ic_near_me_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_woods.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\woods.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_guy2.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\guy2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_add.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_shop_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_shop_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_shop.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-hdpi\\ic_shop.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_more_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_more_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_account_box_24.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\ic_baseline_account_box_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_story_add.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-mdpi\\ic_story_add.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_heart_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_heart_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_shop.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_shop.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_more_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-hdpi\\ic_more_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_comment.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-hdpi\\ic_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_heart_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-hdpi\\ic_heart_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_girl3.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable-v24\\girl3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_shop_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xhdpi\\ic_shop_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_collection_background.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\ic_collection_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fireworks.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable-v24\\fireworks.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_whitegirl.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\whitegirl.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_heart_foreground.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\ic_heart_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_comment.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-mdpi\\ic_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_shop.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\layout\\fragment_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_near_me.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_near_me.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_near_me_background.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\ic_near_me_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_heart_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xhdpi\\ic_heart_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_graduation.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\graduation.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_story_add.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xhdpi\\ic_story_add.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_search_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_search_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_suzy.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\suzy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_search.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notifications.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_girl_blue.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\girl_blue.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_party.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable-v24\\party.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_heart.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-hdpi\\ic_heart.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_comment.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\layout\\fragment_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_add.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_profile.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_more_background.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\ic_more_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_more_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-mdpi\\ic_more_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_story_add_round.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_story_add_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_girl_sunglass.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\girl_sunglass.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_yellowboy.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable-v24\\yellowboy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_shop_round.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_shop_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_collection.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_collection.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_add.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-hdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_more.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_girl_lollypop.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable-v24\\girl_lollypop.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_profile_round.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_profile_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_near_me_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-mdpi\\ic_near_me_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_collection_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-hdpi\\ic_collection_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_guitar.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable-v24\\guitar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_heart.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_heart.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_search_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-hdpi\\ic_search_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_collection_round.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_collection_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_more_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_more_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_travel.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable-v24\\travel.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_yellowpink.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable-v24\\yellowpink.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_story_add_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_story_add_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_story_add.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_story_add.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_collection.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_collection.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_shop.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_shop.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_add_round.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_add_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_comment_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-mdpi\\ic_comment_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_add_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-hdpi\\ic_add_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_collection_foreground.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\ic_collection_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_collection.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_collection.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_flowers.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable-v24\\flowers.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\layout_recyclerview_model.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\layout\\recyclerview_model.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_search_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_search_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_story_add.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_story_add.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_collection.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xhdpi\\ic_collection.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_comment.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kid.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\kid.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_add_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_add_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_comment_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xhdpi\\ic_comment_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_user_activities.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\layout\\fragment_user_activities.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lady1.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\lady1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_collection.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-mdpi\\ic_collection.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_story_add_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-mdpi\\ic_story_add_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_heart_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_heart_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_more.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_more.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_heart.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-mdpi\\ic_heart.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_near_me.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_near_me.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_near_me.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_near_me.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_collection_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_collection_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_comment_foreground.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\ic_comment_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_search_round.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_search_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_outline_search_24.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\ic_outline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_guy.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\guy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_near_me_round.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_near_me_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\layout_horizontal_recyclerview_model.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\layout\\horizontal_recyclerview_model.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_heart_round.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_heart_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_couple.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\couple.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_comment.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_more.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-mdpi\\ic_more.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_comment_round.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_comment_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_near_me_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-hdpi\\ic_near_me_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_story_add_foreground.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\ic_story_add_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_more_round.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_more_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_add_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_add_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_heart.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_heart.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_add_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xhdpi\\ic_add_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_shop_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-mdpi\\ic_shop_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_collection.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-hdpi\\ic_collection.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_more_foreground.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\ic_more_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_add.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_shop_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_shop_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_story_add_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_story_add_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_search.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_near_me.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xhdpi\\ic_near_me.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_heart_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-mdpi\\ic_heart_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_add.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_story_add.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-hdpi\\ic_story_add.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_comment_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_comment_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_outline_shopping_bag_24.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\ic_outline_shopping_bag_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_couplenature.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable-v24\\couplenature.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_more_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xhdpi\\ic_more_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_story_add_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-hdpi\\ic_story_add_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_dog.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable-v24\\dog.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_outline_add_box_24.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\ic_outline_add_box_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_near_me_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_near_me_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_search.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_story_add_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xhdpi\\ic_story_add_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_collection_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_collection_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_near_me.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-mdpi\\ic_near_me.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_activites.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\layout\\activity_my_activites.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_comment_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_comment_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_search.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_story_add_background.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\ic_story_add_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_shop.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-mdpi\\ic_shop.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_search_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-mdpi\\ic_search_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_more.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_more.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_comment.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xhdpi\\ic_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_heart.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xhdpi\\ic_heart.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_add.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-mdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_near_me_foreground.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\ic_near_me_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_heart_background.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable\\ic_heart_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_friends.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\drawable-v24\\friends.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_heart.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ShotLot\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_heart.png"
+    }
+]
